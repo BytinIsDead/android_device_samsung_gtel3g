@@ -2,5 +2,5 @@
 <permissions>
     <unavailable-feature name="android.hardware.sensor.compass" />
     <unavailable-feature name="android.hardware.nfc" />
-     <unavailable-feature name="android.hardware.sensor.proximity" />
+    <unavailable-feature name="android.hardware.sensor.proximity" />
 </permissions>

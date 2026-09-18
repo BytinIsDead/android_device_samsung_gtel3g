@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := $(my-dir)
+LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := fstab.sc8830

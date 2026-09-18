@@ -53,12 +53,12 @@
     <item name="wakeup.power">0.15</item>
     <item name="cpu.awake">25</item>
     <array name="cpu.active">
-	<value>19</value>
-	<value>29</value>
-	<value>39</value>
-	<value>48</value>
-	<value>58</value>
-	<value>68</value>
+        <value>19</value>
+        <value>29</value>
+        <value>39</value>
+        <value>48</value>
+        <value>58</value>
+        <value>68</value>
         <value>78</value>
         <value>87</value>
         <value>112</value>
